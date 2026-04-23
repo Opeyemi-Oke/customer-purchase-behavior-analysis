@@ -41,9 +41,8 @@ Business Value
 - Supports data-driven decision-making  
 
 Dashboard Preview
-(Add your screenshot here)
+![Dashboard](images:dashboard.png)
 
-![Dashboard](images/dashboard.png)
 
 Author
 Opeyemi  
