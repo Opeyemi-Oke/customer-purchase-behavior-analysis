@@ -3,6 +3,14 @@ Customer Purchase Behavior Analysis (Bike Sales Dataset)
 Project Overview
 This project analyzes customer demographic and socioeconomic data to identity patterns influencing bike purchase decisions. The goal is to uncover insights that can help businesses target the right customers and improve marketing strategies
 
+Project File
+The Excel file included in this repository contains:
+
+- Raw dataset  
+- Data cleaning process: working sheet 
+- Pivot table analysis  
+- Dashboard visualization  
+
 Dataset Description
 The dataset includes:
 
