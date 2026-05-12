@@ -43,8 +43,7 @@ Business Value
 Dashboard Preview
 ![Dashboard](images:dashboard.png)
 
-
 Author
 Opeyemi  
 - LinkedIn: https://linkedin.com/in/okeopeyemioluwafemi  
-- GitHub: https://github.com/okeopeyemi
+- GitHub: https://github.com/Opeyemi-Oke
