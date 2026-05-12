@@ -41,7 +41,7 @@ Business Value
 - Supports data-driven decision-making  
 
 Dashboard Preview
-![Dashboard](images:dashboard.png)
+![Dashboard](bike_dashboard.png)
 
 Author
 Opeyemi  
